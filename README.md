@@ -1,10 +1,9 @@
 # Hidden-Developer-Compitition
 
-[03:35] nforeman: @Off-site Devs Hi
-We have a competition tomorrow.
-And it's for you!
+This is my attempt at the website development competition!  
 
-[SATURDAY COMPETITIONS]:
+-------------------------------------------
+```[SATURDAY COMPETITIONS]:
 It's been a long time since we've had any competition. A long, long time (maybe a few weeks). Therefore, we need to redeem ourselves. What better way to start off than with a random, out of the blue Website Competition! If anyone out of @everyone is a website developer (including those without the roles) wants to compete in said competition, be ready to fight to the... win? by making a web-page according to the theme revealed tomorrow at the beginning of the competition.
 
 Looking at the poll, many people wanted the competition pushed up 2-4 hours, so we will settle at 3:00PM EST for tomorrow's competition.
@@ -28,7 +27,7 @@ Teams are allowed.
 If you plan to attend, please read the following rules.
 
 [THEME]:
-<too_be_announced_soon_ha_you_didnt_think_i_would_tell_you_early_right>
+Sci-Fi
 
 [RULES]:
 1) The website must contain ONLY one page.
@@ -41,4 +40,4 @@ If you plan to attend, please read the following rules.
 8) The website must be age-appropriate (PG-13 or lower)
 9) Website source code (in file format) MUST be sent to me through DM's
 10) No site-builders or third-party plugins
-11) You will have TWO hours to create the website
+11) You will have TWO hours to create the website```
