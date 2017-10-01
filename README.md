@@ -4,7 +4,9 @@ This is my attempt at the website development competition!
 -----------------------------------------
 
 You can vote for myself at: http://www.hiddendevelopers.com/index.php?/topic/1213-event-competition-website-competition-winner-vote/
+
 Or view all the entries here: http://c.hiddendevelopers.com/
+
 Or view just mine straight away here: http://c.hiddendevelopers.com/railworks2/
 
 -------------------------------------------
